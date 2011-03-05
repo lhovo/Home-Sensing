@@ -334,20 +334,15 @@ UsedLibrary="/Applications/EAGLE/lbr/xilinx-xc9.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
+UsedLibrary="/Applications/EAGLE/lbr/ATmega640.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="420 248 1019 647"
-State=2
-Number=0
-
-[Win_2]
 Type="Schematic Editor"
-Loc="4 33 1397 873"
+Loc="72 44 1332 821"
 State=2
 Number=1
 File="schematic.sch"
-View="-111629 -1299049 1021589 -108827"
+View="-843798 -419963 245140 668975"
 WireWidths=" 0 3048 6096 8128 10160 12700 14224 16764 17780 19304 21844 25400 38100 64516 4064 1524"
 PadDiameters=" 2540 3048 4064 6096 8128 10160 12700 14224 16764 17780 19304 21844 25400 38100 64516 0"
 PadDrills=" 5000 6000 7000 9000 10000 11000 12000 13000 14000 15000 16000 20000 22000 28000 32000 8000"
@@ -359,7 +354,7 @@ PolygonSpacings=" 2540 3048 4064 6096 8128 10160 14224 16764 17780 19304 21844 2
 PolygonIsolates=" 2540 3048 4064 6096 8128 10160 12700 14224 16764 17780 19304 21844 25400 38100 64516 0"
 MiterRadiuss=" 2540 3175 6350 12700 25400 10000 20000 25000 50000 75000 100000 0"
 SmdSizes=" 3048 1524 4064 2032 6096 3048 8128 4064 10160 5080 12700 6604 14224 7112 16764 8128 17780 9144 19304 9652 21844 10668 25400 12700 38100 19304 50800 25400 64516 32512 12700 6350"
-WireBend=0
+WireBend=1
 WireBendSet=31
 WireCap=1
 MiterStyle=0
@@ -379,10 +374,16 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: -111629 -1299049 1021589 -108827"
+Views=" 1: -843798 -419963 245140 668975"
 Sheet=1
 
+[Win_2]
+Type="Control Panel"
+Loc="420 248 1019 647"
+State=2
+Number=0
+
 [Desktop]
-Screen="1440 900"
+Screen="3040 1200"
 Window="Win_1"
 Window="Win_2"
