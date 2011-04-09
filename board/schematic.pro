@@ -2,9 +2,9 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Volumes/Glinda/lukeh/Git/House-Monitor/board/schematic.brd
 
-Start at      : 16:28:07 (5/03/11)
-End at        : 16:28:08 (5/03/11)
-Elapsed time  : 00:00:01
+Start at      : 10:27:26 (5/04/11)
+End at        : 10:27:28 (5/04/11)
+Elapsed time  : 00:00:02
 
 Signals       :    55   RoutingGrid: 3.93701 mil  Layers: 2
 Connections   :   149   predefined:  149 ( 63 Vias )
@@ -13,7 +13,7 @@ Router memory :   737664
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00  00:00:00  00:00:01  00:00:00  00:00:00
+Time per pass     :  00:00:00  00:00:00  00:00:01  00:00:00  00:00:01
 Number of Ripups  :         0         0         0         0         0
 max. Level        :         0         0         0         0         0
 max. Total        :         0         0         0         0         0
